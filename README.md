@@ -1,4 +1,4 @@
-### —͟͟͞͞𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐃 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓  𝐅𝐎𝐑𝐊  🌺  
+### —͟͟͞͞🦋 𝓩𝓸𝔂𝓪 𝓒𝓱𝓪𝓽 𝓑𝓸𝓽 🦋  🌺  
   
 ❖ **`A Messenger Multi Device Bot To Take Your Messenger To Another Level!`**   
   
@@ -15,15 +15,15 @@
 <!-- COLORED + BOLD TITLE (NO ANIMATION) -->
 <p align="center" style="font-family: 'Segoe UI', sans-serif; font-weight: bold;">
 
-  <!-- SHAHADAT CHAT BOT -->
+  <!-- 🦋 𝓩𝓸𝔂𝓪 𝓒𝓱𝓪𝓽 𝓑𝓸𝓽 🦋 -->
   <span style="font-size: 32px; font-weight: 700; color:#00A8FF;">
-    SHAHADAT CHAT BOT
+    𝓩𝓸𝔂𝓪 𝓒𝓱𝓪𝓽 𝓑𝓸𝓽 
   </span>
   <br>
 
   <!-- Developed By -->
   <span style="font-size: 22px; font-weight: 700; color:#FF8A00;">
-    Developed By SHAHADAT SAHU
+    Developed By MIJANUR RAHMAN 
   </span>
 
 </p>
@@ -35,14 +35,14 @@
   <img src="https://img.shields.io/github/forks/shahadat-sahu/SHAHADAT-CHAT-BOT?style=for-the-badge" alt="Forks">
 
   <!-- ⭐ Stars -->
-  <img src="https://img.shields.io/github/stars/shahadat-sahu/SHAHADAT-CHAT-BOT?style=for-the-badge" alt="Stars">
+  <img src="https://img.shields.io/github/stars Mijanur Rahman/S🦋 𝓩𝓸𝔂𝓪 𝓒𝓱𝓪𝓽 𝓑𝓸𝓽 🦋?style=for-the-badge" alt="Stars">
 
   <!-- ⭐ Fork Views -->
-  <img src="https://komarev.com/ghpvc/?username=shahadat-sahu&label=Fork%20Views&color=blueviolet&style=for-the-badge" alt="Fork Views">
+  <img src="https://komarev.com/ghpvc/?username=Mijanur &label=Fork%20Views&color=blueviolet&style=for-the-badge" alt="Fork Views">
 
 
   <!-- ⭐ Original Repository -->
-  <a href="https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT">
+  <a href="https://github.com mijanur/🦋 𝓩𝓸𝔂𝓪 𝓒𝓱𝓪𝓽 𝓑𝓸𝓽 🦋">
     <img src="https://img.shields.io/badge/ORIGINAL%20REPOSITORY-black?style=for-the-badge&logo=github&logoColor=white" alt="Original Repo">
   </a>
 
@@ -196,13 +196,13 @@ Please do not disturb the admin unless you have a special need. Thank you!
 ## ✨🌟 Special Thanks 🌟✨
 
 - 🚀 **Cyber Bot Team**  
-- 🧙‍♂️ **Ullash (Owner Cyber Bot Team)**
+- 🧙‍♂️ *Manure (Owner Cyber Bot Team)**
 - 🛡️ **Sujon (Admin Cyber Bot Team)**
 - 🎓 **Grandpa EJ (Owner Grandpa Academy)** 
 
 __________
 
-💖 **Thank You For Choosing 𝗦𝗵𝗮𝗵𝗮𝗱𝗮𝘁 𝗖𝗵𝗮𝘁 𝗕𝗼𝘁!**  
+💖 **Thank You For Choosing 🦋 𝓩𝓸𝔂𝓪 𝓒𝓱𝓪𝓽 𝓑𝓸𝓽 🦋!**  
 🗓️ *Release Date:* `11/08/2025 at 02:00`  
 ⭐ **Please don't forget to give a star after forking! It really helps!**
 
