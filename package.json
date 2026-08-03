@@ -1,7 +1,7 @@
 {
-  "name": "shahadat-chat-bot",
+  "name": "🦋 𝓩𝓸𝔂𝓪 𝓒𝓱𝓪𝓽 𝓑𝓸𝓽 🦋",
   "version": "2.0.1",
-  "description": "Made By SHAHADAT SAHU",
+  "description": "Made By MIJANUR RAHMAN",
   "main": "Main.js",
   "engines": {
     "node": "22.x",
@@ -23,11 +23,11 @@
     "messenger",
     "javascript",
     "shadat",
-    "ullash",
-    "shahadat sahu",
+    "Riya",
+    "Mijanur Rahman",
     "shahadat chat bot"
   ],
-  "author": "SHAHADAT SAHU",
+  "author": "Mijanur Rahman",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT/issues"
