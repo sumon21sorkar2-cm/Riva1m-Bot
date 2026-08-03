@@ -24,7 +24,7 @@ module.exports.run = async function({ api, event, Users, Threads }) {
     ? " তোর সাহস কম না  গ্রুপের এডমিনের পারমিশন ছাড়া তুই লিভ  নিস😡😠🤬 \n✦─────꯭─⃝‌‌🦋 𝓩𝓸𝔂𝓪 𝓒𝓱𝓪𝓽 𝓑𝓸𝓽 🦋────✦"
     : "তোমার এই গ্রুপে থাকার কোনো যোগ্যাতা নেই ছাগল😡\nতাই তোমাকে লাথি মেরে গ্রুপ থেকে বের করে দেওয়া হলো🤪 WELLCOME REMOVE🤧\n✦─────꯭─⃝‌‌🦋 𝓩𝓸𝔂𝓪 𝓒𝓱𝓪𝓽 𝓑𝓸𝓽 🦋────✦";
 
-  const path = join(__dirname, "Shahadat", "leaveGif");
+  const path = join(__dirname, "Mijanur", "leaveGif");
   const gifPath = join(path, `leave1.gif`);
 
   if (!existsSync(path)) mkdirSync(path, { recursive: true });
