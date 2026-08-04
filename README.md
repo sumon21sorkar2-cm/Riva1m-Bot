@@ -23,7 +23,7 @@
 
   <!-- Developed By -->
   <span style="font-size: 22px; font-weight: 700; color:#FF8A00;">
-    Developed By MIJANUR RAHMAN 
+    Developed By Mijanur 
   </span>
 
 </p>
@@ -32,17 +32,17 @@
 <div align="center">
 
   <!-- ⭐ Fork -->
-  <img src="https://img.shields.io/github/forks/Mijanur Rahman/🦋 𝓩𝓸𝔂𝓪 𝓒𝓱𝓪𝓽 𝓑𝓸𝓽 🦋?style=for-the-badge" alt="Forks">
+  <img src="https://img.shields.io/github/forks/Mijanur Rahman/𝓩𝓸𝔂𝓪 𝓒𝓱𝓪𝓽 𝓑𝓸𝓽?style=for-the-badge" alt="Forks">
 
   <!-- ⭐ Stars -->
-  <img src="https://img.shields.io/github/stars Mijanur Rahman/S🦋 𝓩𝓸𝔂𝓪 𝓒𝓱𝓪𝓽 𝓑𝓸𝓽 🦋?style=for-the-badge" alt="Stars">
+  <img src="https://img.shields.io/github/stars Mijanur Rahman/S 𝓩𝓸𝔂𝓪 𝓒𝓱𝓪𝓽 𝓑𝓸𝓽?style=for-the-badge" alt="Stars">
 
   <!-- ⭐ Fork Views -->
   <img src="https://komarev.com/ghpvc/?username=Mijanur &label=Fork%20Views&color=blueviolet&style=for-the-badge" alt="Fork Views">
 
 
   <!-- ⭐ Original Repository -->
-  <a href="https://github.com mijanur/🦋 𝓩𝓸𝔂𝓪 𝓒𝓱𝓪𝓽 𝓑𝓸𝓽 🦋">
+  <a href="https://github.com mijanur/𝓩𝓸𝔂𝓪 𝓒𝓱𝓪𝓽 𝓑𝓸𝓽">
     <img src="https://img.shields.io/badge/ORIGINAL%20REPOSITORY-black?style=for-the-badge&logo=github&logoColor=white" alt="Original Repo">
   </a>
 
